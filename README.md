@@ -1,10 +1,9 @@
-[![MasterHead](https://www.blog.adva.com/-/media/blog/header-images/2012/120626-the-dawn-of-the-terabit-era.jpg?rev=474ceca6f5784926972688a756dcd5ce&extension=webp&hash=968F8B4B280B3E92F9B4BEC0E7DB32D3&w=1088&usecustomfunctions=1&centercrop=1)](https://rishavchanda.io)
+[![logo](https://www.blog.adva.com/-/media/blog/header-images/2012/120626-the-dawn-of-the-terabit-era.jpg)
 <h1 align="center">Hi 👋, I'm Zinabu Weldegebriel</h1>
 <h3 align="center">MSc. Information and Communication Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zunic8524" alt="zunic8524" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zunic8524&label=Profile%20views&color=0e75b6&style=flat" alt="zunic8524" /> </p>
 
 - 🔭 I’m currently working on **deep learning for radar and automatic target recognition**
 
@@ -15,6 +14,8 @@
 - 📫 How to reach me **zinabuwgebriel@yahoo.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/zinabu85wgebriel](www.linkedin.com/in/zinabu85wgebriel)
+
+- ⚡ Fun fact **I have sense of humor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,3 +31,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zunic8524&show_icons=true&locale=en&layout=compact" alt="zunic8524" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zunic8524&show_icons=true&locale=en" alt="zunic8524" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zunic8524&" alt="zunic8524" /></p>
