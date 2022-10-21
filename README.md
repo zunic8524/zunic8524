@@ -1,7 +1,7 @@
 ![logo](https://github.com/zunic8524/zunic8524/blob/main/baner.png)
 <h1 align="center">Hi 👋, I'm Zinabu Weldegebriel</h1>
 <h3 align="center">MSc. Information and Communication Engineering</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zunic8524&label=Profile%20views&color=0e75b6&style=flat" alt="zunic8524" /> </p>
 
