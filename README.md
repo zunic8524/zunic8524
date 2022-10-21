@@ -1,4 +1,4 @@
-[![logo](https://www.blog.adva.com/-/media/blog/header-images/2012/120626-the-dawn-of-the-terabit-era.jpg)
+![logo](https://github.com/zunic8524/zunic8524/blob/main/baner.png)
 <h1 align="center">Hi 👋, I'm Zinabu Weldegebriel</h1>
 <h3 align="center">MSc. Information and Communication Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
